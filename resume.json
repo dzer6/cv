@@ -1,0 +1,287 @@
+{
+  "basics": {
+    "name": "Andrew Panfilov",
+    "label": "Lead Java Developer, Software Architect",
+    "email": "andrew@dzer6.com",
+    "summary": "Software Engineer with 13+ years of experience in software development. Main areas of expertise are ad-tech, big data analysis, batch processing, high load systems.",
+    "picture": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAfCAAAAJDcxYzM0YWM2LTc4OTYtNDU4MS04NGE5LTg1ZmM2Mzc1MTgyNw.jpg",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Kiev",
+      "countryCode": "UA",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "dzer6",
+        "url": "https://github.com/dzer6"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "andrewpanfilov",
+        "url": "https://ua.linkedin.com/in/andrewpanfilov"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Analysis",
+      "level": "",
+      "keywords": [
+        "Reviewing and auditing existed software architecture",
+        "Creating the system requirements specification",
+        "Pre-sale and technical due diligence"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "",
+      "keywords": [
+        "Ability to design solid software architecture",
+        "Writing High- and Low-level design documents",
+        "Presenting designed solution to the stakeholders"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "",
+      "keywords": [
+        "Ability to hire, inspire, mentor, and encourage colleagues",
+        "Building prototypes of the software and tests them",
+        "Creating ; back-end and front-end parts of the software"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Cogniance",
+      "position": "Lead Software Developer, Architect",
+      "startDate": "2015-09-01",
+      "endDate": "2017-03-01",
+      "summary": "Custom DWH and ETL for an advertising platform.",
+      "highlights": [
+        "Responsibilities: designing DWH/ETL architecture; data flow designing; leading small team of Java developers; programming; PoC creating; testing and proving data processing ideas; defining data processing stack; composing technical documentation; code review; integration and unit test writing; coaching and transferring experience to ; back-end developers team; requirement analysis, tasks break down and estimating.",
+        "Technologies and tools: Java 8, Spring Framework (Core, Boot, MVC, Data JPA), Hibernate, Flywaydb, WSO2, Clojure, Cascalog, MySQL, Druid, Hadoop, Amazon EMR, Docker, Docker Machine, Docker Compose, Apache Tomcat, JSON, SQL, Jackson, Ubuntu, Mac OS X, JUnit, Mockito, Git, Jira, Jenkins."
+      ]
+    },
+    {
+      "company": "Cogniance",
+      "position": "Senior Software Developer",
+      "startDate": "2015-02-01",
+      "endDate": "2015-09-01",
+      "summary": "Startup in healthcare domain: smart thermometer + iOS/Android app.",
+      "highlights": [
+        "Responsibilities: ; back-end development; code review; project architecture due diligence; proposing architectural approaches and technologies stack for synchronizing user data among iOS apps, Android apps and ; back-end.; composing technical documentation; integration and unit test writing; requirement analysis, tasks break down and  estimating.",
+        "Technologies and tools: Apache Tomcat, Spring Core, Spring MVC, Spring Data, JPA, Hibernate, PostgreSQL, H2, Stormpath, Java, JSON, Jackson, Ubuntu, Mac OS X, JUnit, Mockito, Git, Jira, Jenkins."
+      ]
+    },
+    {
+      "company": "Cogniance",
+      "position": "Senior Software Developer",
+      "startDate": "2014-02-01",
+      "endDate": "2015-02-01",
+      "summary": "Backup service for enterprises. Pull data from Dropbox, Box.com, Docusign, Echosign and other services into the reliable store.",
+      "highlights": [
+        "Responsibilities: ; back-end development; integration and unit test writing; requirement analysis, tasks break down and  estimating; integration with third-party REST APIs; composing technical documentation.",
+        "Technologies and tools: Spring Core, Spring Boot, MyBatis, H2, OAuth2, Dropbox Client Lib, Box.com Client Lib, Docusign Client Lib, Echosign Client Lib, Java, JSON, XML, Ubuntu, Mac OS X, JUnit, Mockito, Git, Jira, Jenkins."
+      ]
+    },
+    {
+      "company": "Cogniance",
+      "position": "Senior Software Developer",
+      "startDate": "2012-08-01",
+      "endDate": "2014-02-01",
+      "summary": "Advertising platform. The platform allows companies to use mobile and traditional media to reach targeted consumers, engage the consumer through the mobile Internet and applications, convert them into customers and continue to actively manage the relationship through the mobile channel.",
+      "highlights": [
+        "Responsibilities: requirement analysis and estimation; detail Design document writing; developing services in Java, Clojure, and Groovy.",
+        "Technologies and tools: Apache Tomcat, Leiningen, Spring Core, Spring, Batch, Spring Data, MyBatis, JPA, Hadoop, Cascading Impala, MySQL, PostgreSQL, H2,  Solr, Elasticsearch, RabbitMQ, Java, JSON, XML, XSD, WADL, JUnit, Mockito Git, Jira, Sonar, TeamCity, Jenkins."
+      ]
+    },
+    {
+      "company": "Ciklum",
+      "position": "Senior Software Developer",
+      "startDate": "2012-01-01",
+      "endDate": "2012-08-01",
+      "summary": "Poker, refactoring of legacy Poker game solution. Rewriting parts of existed poker servers.",
+      "highlights": [
+        "Responsibilities: requirement analysis and estimation; detail Design document writing; developing an application in Java; refactoring legacy code; collaborating with a 2-4-member software team; collaborating with a core team; continuous Integration adjustment; build process creating and adjustment.",
+        "Technologies and tools: Playtech Poker Servers, Google Protobuf, Java, Groovy, XML, JSON, Black Box Testing, JUnit.  Jenkins CI, Apache Maven, Apache Ant, Sonar, Nexus, SVN, Jira, Icescrum."
+      ]
+    },
+    {
+      "company": "NDA",
+      "position": "Senior Software Developer, Contractor",
+      "startDate": "2010-08-01",
+      "endDate": "2012-08-01",
+      "summary": "Video chat in the browser, Chatroulette clone based on RTMP server Red5 and Flash. Website implemented on Grails. The scalable solution consists of two web applications, deployed as war files. The first application contains embedded RTMP server Red5 with video streaming transcoding based on ffmpeg wrapper Xuggle Xuggler. The second application contains front-end implemented on Grails with zombie cookie technology Evercookie, Twitter Bootstrap and JQuery. The connection between applications implemented with Apache Camel, JMS and Apache ActiveMQ.",
+      "highlights": [
+        "Responsibilities: requirement analysis and estimation; developing all parts of the solution with Java, Groovy, JavaScript, Openlaszlo; architecture designing.",
+        "Technologies and tools: Red5, Apache Tomcat, PostgreSQL, Grails, Spring Framework, JMS, Apache Camel, Apache ActiveMQ, Openlaszlo, Xuggle Xuggler, ffmpeg, Twitter Bootstrap, Java, Groovy, JavaScript, XML, Flash."
+      ]
+    },
+    {
+      "company": "Topspin",
+      "position": "Senior Software Developer",
+      "startDate": "2010-12-01",
+      "endDate": "2011-12-01",
+      "summary": "Web service for media storage. Web service proxy for large media storage based on WSO2 Carbon platform.Supports SOAP (described as WSDL 1.1) and REST (described as WSDL 2.0). Intended for integration with partners in a large amount of television software.",
+      "highlights": [
+        "Responsibilities: requirement analysis and estimation; High- and Low- Level Design document writing; developing an application in Java; collaborating with a 4 member software team; collaborating with a customer team; continuous Integration adjustment; build process creating and adjustment.",
+        "Technologies and tools: WSO2 Carbon, OSGi, Apache Axis2, Spring Framework, soapUI, REST, SOAP Java, Groovy, WSDL, XML, XSD, WADL.  Windows, Ubuntu.  Jenkins CI, Apache Maven, Sonar, Nexus, MKS, SVN, Trac."
+      ]
+    },
+    {
+      "company": "Exadel",
+      "position": "Software Developer",
+      "startDate": "2010-09-01",
+      "endDate": "2010-12-01",
+      "summary": "An Intranet application for mutual funds accounting based on Spring Framework, Hibernate, JSF, JBPM, Quartz with MS SQL database and Apache Tomcat as a servlet container.",
+      "highlights": [
+        "Responsibilities: bug fixing; analyzing custom logic requirement and providing DSL based high-level solution.",
+        "Technologies and tools: JSF, Hibernate, Spring Framework, Apache Tomcat, JBPM, Quartz,  Java, XML, JavaScript, HTML Ubuntu.  Apache Maven, Sonar, SVN, Jira."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Release issue tool website.",
+      "highlights": [
+        "Responsibilities: implementing all parts of project excepting web design.",
+        "Technologies and tools: Apache Tomcat, PostgreSQL, Grails, JMS, Apache Camel, Apache ActiveMQ, Java, Groovy, JavaScript, XML, Ubuntu, Apache Maven, SVN, Bugzilla."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Web-based bank application for test tool features demonstration. It looks like real bank application intended to run with customer security tool.",
+      "highlights": [
+        "Responsibilities: front-end developing.",
+        "Technologies and tools: Toplink, Spring Framework, Log4J, Quartz, Weblogic, WebSphere, Oracle, MSSQL, PostgreSQL, YUI, Java, JavaScript, JSP, Ubuntu, Apache Maven, SVN, Bugzilla."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Web-based tool for making releases, intended for teams collaborating for releases rollout.",
+      "highlights": [
+        "Responsibilities: front-end development of the web based bank application.",
+        "Technologies and tools: Jackrabbit, Hibernate, Spring Framework, Log4J, PostgreSQL, Quartz, Apache Tomcat, Dojo, Java, JavaScript, JSP, Windows, Ubuntu, Apache Maven, SVN, Bugzilla."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Distributed service execution engine. The environment for running custom user services like file sharing, calendar, to-do lists, etc.",
+      "highlights": [
+        "Responsibilities: front-end and middle tier developing, developing transport layer on top of JXTA.",
+        "Technologies and tools: JXTA, Hibernate, Spring Framework, Log4J, Derby, Quartz, Apache Tomcat, YUI, Java, JavaScript, JSP, Windows, Ubuntu, FreeBSD, Apache Maven, SVN, Bugzilla."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Instant Messenger for an Italian customer.",
+      "highlights": [
+        "Responsibilities: old version instant messenger code refactoring, new skinnable UI layer development, compilation into native Windows and MacOS executables via ExcelsiorJet tool.",
+        "Technologies and tools: SWT, JFace, CookSWT, CookXML, CookJS, Rhino, Excelsior Jet, Excelsior xFunction, Java, JavaScript, XML, Windows, MacOS, Apache Ant, SVN."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Client inspector of casino game application for Ukrainian and Russian customers as a part of distributed client-server application.",
+      "highlights": [
+        "Responsibilities: developing all parts of casino game application, installing an application on customer’s side.",
+        "Technologies and tools: Swing, AWT, Apache Axis2, Java, Apache Ant, SVN, Bugzilla."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "GIS system for goods location management in a warehouse.",
+      "highlights": [
+        "Responsibilities: fat client developing",
+        "Technologies and tools: Swing, AWT, Geotools, JTS, Geoserver, Castor, Apache Axis2, JDBC, Java, SQL, Apache Ant, CVS, Bugzilla."
+      ]
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "Eclipse plugin. Client for managing business process flows.",
+      "highlights": [
+        "Responsibilities: UI development and some internal functionality implementations of Eclipse plugin.",
+        "Technologies and tools: Eclipse API, SWT, JFace, GEF, Draw2D, Java, Apache Ant, VSS."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kiev Clojure Users meetup",
+      "position": "Organizer",
+      "website": "http://www.meetup.com/Kiev-Clojure-Users/",
+      "startDate": "2013-01-01",
+      "endDate": "2017-12-01",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Donetsk State Institute of Artificial Intelligence",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-01",
+      "endDate": "2004-07-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Hadoop -> Cascading -> Cascalog",
+      "publisher": "SlideShare",
+      "releaseDate": "2013-10-09",
+      "website": "http://www.slideshare.net/andrewpanf/hadoop-cascading-cascalog",
+      "summary": "Tech talk slides about big data aggregation approaches and tools."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Camping",
+      "keywords": []
+    },
+    {
+      "name": "Traveling",
+      "keywords": []
+    },
+    {
+      "name": "Startups",
+      "keywords": []
+    }
+  ]
+}
