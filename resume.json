@@ -50,7 +50,7 @@
       "keywords": [
         "Ability to hire, inspire, mentor, and encourage colleagues",
         "Building prototypes of the software and tests them",
-        "Creating ; back-end and front-end parts of the software"
+        "Creating back-end and front-end parts of the software"
       ]
     }
   ],
@@ -62,7 +62,7 @@
       "endDate": "2017-03-01",
       "summary": "Custom DWH and ETL for an advertising platform.",
       "highlights": [
-        "Responsibilities: designing DWH/ETL architecture; data flow designing; leading small team of Java developers; programming; PoC creating; testing and proving data processing ideas; defining data processing stack; composing technical documentation; code review; integration and unit test writing; coaching and transferring experience to ; back-end developers team; requirement analysis, tasks break down and estimating.",
+        "Responsibilities: designing DWH/ETL architecture; data flow designing; leading small team of Java developers; programming; PoC creating; testing and proving data processing ideas; defining data processing stack; composing technical documentation; code review; integration and unit test writing; coaching and transferring experience to back-end developers team; requirement analysis, tasks break down and estimating.",
         "Technologies and tools: Java 8, Spring Framework (Core, Boot, MVC, Data JPA), Hibernate, Flywaydb, WSO2, Clojure, Cascalog, MySQL, Druid, Hadoop, Amazon EMR, Docker, Docker Machine, Docker Compose, Apache Tomcat, JSON, SQL, Jackson, Ubuntu, Mac OS X, JUnit, Mockito, Git, Jira, Jenkins."
       ]
     },
@@ -73,7 +73,7 @@
       "endDate": "2015-09-01",
       "summary": "Startup in healthcare domain: smart thermometer + iOS/Android app.",
       "highlights": [
-        "Responsibilities: ; back-end development; code review; project architecture due diligence; proposing architectural approaches and technologies stack for synchronizing user data among iOS apps, Android apps and ; back-end.; composing technical documentation; integration and unit test writing; requirement analysis, tasks break down and  estimating.",
+        "Responsibilities: back-end development; code review; project architecture due diligence; proposing architectural approaches and technologies stack for synchronizing user data among iOS apps, Android apps and back-end.; composing technical documentation; integration and unit test writing; requirement analysis, tasks break down and  estimating.",
         "Technologies and tools: Apache Tomcat, Spring Core, Spring MVC, Spring Data, JPA, Hibernate, PostgreSQL, H2, Stormpath, Java, JSON, Jackson, Ubuntu, Mac OS X, JUnit, Mockito, Git, Jira, Jenkins."
       ]
     },
@@ -84,7 +84,7 @@
       "endDate": "2015-02-01",
       "summary": "Backup service for enterprises. Pull data from Dropbox, Box.com, Docusign, Echosign and other services into the reliable store.",
       "highlights": [
-        "Responsibilities: ; back-end development; integration and unit test writing; requirement analysis, tasks break down and  estimating; integration with third-party REST APIs; composing technical documentation.",
+        "Responsibilities: back-end development; integration and unit test writing; requirement analysis, tasks break down and  estimating; integration with third-party REST APIs; composing technical documentation.",
         "Technologies and tools: Spring Core, Spring Boot, MyBatis, H2, OAuth2, Dropbox Client Lib, Box.com Client Lib, Docusign Client Lib, Echosign Client Lib, Java, JSON, XML, Ubuntu, Mac OS X, JUnit, Mockito, Git, Jira, Jenkins."
       ]
     },
