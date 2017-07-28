@@ -63,7 +63,7 @@
       "summary": "Deal Flow Power Tool for VC & PE.",
       "highlights": [
         "Responsibilities: programming; code review; coaching and transferring experience to developers team; requirement analysis, tasks break down and estimating.",
-        "Technologies and tools: Clojure, Immutant, ClojureScript, Reagent, React, ReactBootstrap, SCSS, Datomic, AWS, Docker, JSON, EDN, Datalog, Mac OS X, Git, Github, Trello, Youtrack, CircleCI."
+        "Technologies and tools: Clojure, Immutant, ClojureScript, Reagent, React, ReactBootstrap, HTML, JavaScript, SCSS, Datomic, AWS, Docker, JSON, EDN, Datalog, Mac OS X, Git, Github, Trello, Youtrack, CircleCI."
       ]
     },
     {
@@ -74,7 +74,7 @@
       "summary": "Tool for optimizing mobile app icons.",
       "highlights": [
         "Responsibilities: do all technical things (front end, back end, devops, data processing, reporting, etc).",
-        "Technologies and tools: Clojure, ClojureScript, Reagent, React, Bootstrap, CSS, PostgreSQL, Redis, AWS (EC2, S3, CloudFront, Route53, ALB), Docker, SQL, JSON, Ubuntu, Mac OS X, Git, Bitbucket, Trello."
+        "Technologies and tools: Clojure, ClojureScript, Reagent, React, Bootstrap, HTML, JavaScript, CSS, PostgreSQL, Redis, AWS (EC2, S3, CloudFront, Route53, ALB), Docker, SQL, JSON, Ubuntu, Mac OS X, Git, Bitbucket, Trello."
       ]
     },
     {
