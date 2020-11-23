@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Andrew Panfilov",
-    "label": "Lead Java Developer, Software Architect",
+    "label": "Engineering Lead, Software Architect",
     "email": "andrew@dzer6.com",
-    "summary": "Software Engineer with 14+ years of experience in software development. Main areas of expertise are ad-tech, big data analysis, batch processing, high load systems.",
-    "picture": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAfCAAAAJDcxYzM0YWM2LTc4OTYtNDU4MS04NGE5LTg1ZmM2Mzc1MTgyNw.jpg",
+    "summary": "Software Engineer with 16+ years of experience in software development. Main areas of expertise are micro-fulfillment, ad-tech, big data analysis, batch processing, high load systems.",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQE0aH6wAwIvTg/profile-displayphoto-shrink_400_400/0/1581019887818?e=1611792000&v=beta&t=hAi0v-NqOqB_n2qL10v9LF4b1YXqjM4bszDXU_njDsE",
     "location": {
       "address": "",
       "postalCode": "",
@@ -56,13 +56,35 @@
   ],
   "work": [
     {
-      "company": "Takeoff Technologies, Inc.",
-      "position": "Lead Software Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2018-12-31",
-      "summary": "TakeOff Technologies, Inc. operates online grocery shopping marketplace that allows retailers to sell groceries online.",
+      "company": "Takeoff Technologies",
+      "position": "Engineering Lead, Software Architect",
+      "startDate": "2019-10-01",
+      "endDate": "2020-12-31",
+      "summary": "Takeoff Technologies is helping grocers thrive in eCommerce.",
       "highlights": [
-        "Responsibilities: programming; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
+        "Responsibilities: people management; composing high and low-level design of the software; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis.",
+        "Technologies and tools: Clojure, Apache Camel, Postgres, Docker, Kubernetes, JSON, EDN, Mac OS X, Git, Github, JIRA."
+      ]
+    },
+    {
+      "company": "Takeoff Technologies",
+      "position": "Technical Lead, Software Architect",
+      "startDate": "2019-01-01",
+      "endDate": "2019-10-01",
+      "summary": "Takeoff Technologies is helping grocers thrive in eCommerce.",
+      "highlights": [
+        "Responsibilities: people management; composing high and low-level design of the software; programming; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
+        "Technologies and tools: Clojure, Apache Camel, Postgres, Docker, Kubernetes, JSON, EDN, Mac OS X, Git, Github, JIRA."
+      ]
+    },
+    {
+      "company": "Takeoff Technologies",
+      "position": "Senior Software Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2019-01-01",
+      "summary": "Takeoff Technologies is helping grocers thrive in eCommerce.",
+      "highlights": [
+        "Responsibilities: programming; PoC creating; code review; technical documentation writing; hiring new engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
         "Technologies and tools: Clojure, ClojureScript, ArangoDB, CouchDB, Redis, OracleDB, Docker, JSON, EDN, Mac OS X, Git, Github, JIRA."
       ]
     },
@@ -90,7 +112,7 @@
     },
     {
       "company": "Cogniance",
-      "position": "Lead Software Developer, Architect",
+      "position": "Lead Software Developer, Software Architect",
       "startDate": "2015-09-01",
       "endDate": "2017-03-01",
       "summary": "Custom DWH and ETL for an advertising platform.",
