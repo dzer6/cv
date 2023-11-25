@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Andrew Panfilov",
-    "label": "Technology Advisor, Software Architect",
+    "label": "Programmer | Early-stage startup CTO | Technology Advisor | Software Architect",
     "email": "andrew@dzer6.com",
-    "summary": "Software Engineer with 20+ years of experience in software development. The main areas of expertise are marketing research tech, micro-fulfilment automation, ad-tech, big data analysis, batch processing, and high-load systems.",
+    "summary": "Seasoned Software Engineer with over two decades of expertise in software development. I specialize in diverse areas, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, batch processing, and high-load systems. In my recent role as Chief Technology Officer, I directed the development of a strategic Minimum Viable Product, emphasizing essential features tailored to the needs of our diverse target audience. My leadership extended to spearheading iterative development processes fueled by user feedback. A significant highlight of my career includes playing a pivotal role as a Software Architect/Engineering Manager at Takeoff Tech. Deloitte recognized the company as a winner among North American logistics firms for fastest-growing companies, based on percentage fiscal-year revenue growth from 2018-2021. I am passionate about leveraging technology for impactful solutions and contributing my extensive experience to innovative projects. Let's connect and explore how I can bring value to your team or initiatives.",
     "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQE0aH6wAwIvTg/profile-displayphoto-shrink_400_400/0/1581019887818?e=1611792000&v=beta&t=hAi0v-NqOqB_n2qL10v9LF4b1YXqjM4bszDXU_njDsE",
     "location": {
       "address": "Mislata",
@@ -329,12 +329,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Kiev Clojure Users meetup",
-      "position": "Organizer",
+      "organization": "Kyiv Clojure Users meetup",
+      "position": "Host",
       "website": "http://www.meetup.com/Kiev-Clojure-Users/",
       "startDate": "2013-01-01",
       "endDate": "2017-12-01",
-      "summary": ""
+      "summary": "This group is for anyone interested in Clojure and related stuff in Kyiv. All skill levels are welcome. I started this group to meet other Clojure enthusiasts."
     }
   ],
   "education": [
@@ -358,6 +358,10 @@
   "languages": [
     {
       "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Ukrainian",
       "fluency": "Full professional proficiency"
     },
     {
