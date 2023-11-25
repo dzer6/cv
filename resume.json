@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Andrew Panfilov",
-    "label": "Engineering Lead, Software Architect",
+    "label": "Technology Advisor, Software Architect",
     "email": "andrew@dzer6.com",
-    "summary": "Software Engineer with 16+ years of experience in software development. Main areas of expertise are micro-fulfillment, ad-tech, big data analysis, batch processing, high load systems.",
+    "summary": "Software Engineer with 20+ years of experience in software development. The main areas of expertise are marketing research tech, micro-fulfilment automation, ad-tech, big data analysis, batch processing, and high-load systems.",
     "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQE0aH6wAwIvTg/profile-displayphoto-shrink_400_400/0/1581019887818?e=1611792000&v=beta&t=hAi0v-NqOqB_n2qL10v9LF4b1YXqjM4bszDXU_njDsE",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Kiev",
-      "countryCode": "UA",
-      "region": ""
+      "address": "Mislata",
+      "postalCode": "46920",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "Valencia"
     },
     "profiles": [
       {
@@ -21,7 +21,7 @@
       {
         "network": "LinkedIn",
         "username": "andrewpanfilov",
-        "url": "https://ua.linkedin.com/in/andrewpanfilov"
+        "url": "https://linkedin.com/in/andrewpanfilov"
       }
     ]
   },
@@ -30,7 +30,7 @@
       "name": "Analysis",
       "level": "",
       "keywords": [
-        "Reviewing and auditing existed software architecture",
+        "Reviewing and auditing existing software architecture",
         "Creating the system requirements specification",
         "Pre-sale and technical due diligence"
       ]
@@ -49,20 +49,57 @@
       "level": "",
       "keywords": [
         "Ability to hire, inspire, mentor, and encourage colleagues",
-        "Building prototypes of the software and tests them",
+        "Building prototypes of the software and testing them",
         "Creating back-end and front-end parts of a software"
       ]
     }
   ],
   "work": [
     {
+      "company": "Elevator Research Services",
+      "position": "Chief Technology Officer",
+      "startDate": "2022-02-01",
+      "endDate": "2023-12-31",
+      "summary": "SaaS startup (tools for marketing research)",
+      "highlights": [
+        "As the Chief Technology Officer, I oversaw the development of a Minimum Viable Product, strategically focusing on essential software features that directly addressed the diverse needs of our target audience. Utilizing user feedback, I spearheaded iterative development processes to enhance the product continually.",
+        "To ensure scalability and efficiency, I took a hands-on approach to investing in and optimizing our technological infrastructure. This included evaluating and implementing cloud services to accommodate the company's growth trajectory.",
+        "Implementing analytics tools, I monitored user behaviour to gain valuable insights, enabling data-driven decision-making for product development and broader business strategy. I championed a culture of continuous improvement, emphasizing the importance of iterating based on data and fostering an environment where innovation flourished.",
+        "A key aspect of my role was building and leading a highly skilled and motivated technology team. Through strategic recruitment and development initiatives, I ensured the team was equipped to meet the technological demands of the company."
+      ]
+    },
+    {
+      "company": "Synqrinus",
+      "position": "Technology Advisor",
+      "startDate": "2022-02-01",
+      "endDate": "2023-02-01",
+      "summary": "Marketing research agency.",
+      "highlights": [
+        "Achievements: I supported the organization in technological strategy, scalability, and cost-effectiveness.",
+        "Responsibilities: technological strategy consulting and engineering sustainability of the organisation.",
+        "Technologies and tools: TypeScript, JavaScript, NodeJS, Clojure, ClojureScript, Apache Camel, Postgres, Docker, AWS, Git, Github, JIRA."
+      ]
+    },
+    {
+      "company": "Synqrinus",
+      "position": "Director Of Engineering",
+      "startDate": "2021-06-01",
+      "endDate": "2022-02-01",
+      "summary": "Marketing research agency.",
+      "highlights": [
+        "Achievements: I led a diverse team of software developers to build and optimise proprietary marketing research tools. I set up and led efficient processes to enable the team to operate with clear communication, accountability, and tracking. I focused on empowering my team and providing coaching and growth opportunities.",
+        "Responsibilities: people management; composing high and low-level design of the software; code review; hiring new engineers; leading group of engineers; coaching and experience transferring.",
+        "Technologies and tools: Clojure, ClojureScript, Apache Camel, Postgres, Docker, AWS, Git, Github, JIRA."
+      ]
+    },
+    {
       "company": "Takeoff Technologies",
       "position": "Engineering Lead, Software Architect",
       "startDate": "2019-10-01",
-      "endDate": "2020-12-31",
-      "summary": "Takeoff Technologies is helping grocers thrive in eCommerce.",
+      "endDate": "2021-06-01",
+      "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
       "highlights": [
-        "About my current role: I'm an engineering leader and architect for several teams that work on assortment, replenishment, retailer integration, warehouse inbound processes. I compose company-wide non-functional requirements, components coding guidelines, documentation explaining in graphical form business entity flows and deployment artifacts; facilitate technical roadmaps creation with ROI-based activities prioritization. I participate in severity-1 issues handling on production environments as an incident manager.",
+        "Achievements: I was an engineering leader and architect for several teams that worked on assortment, replenishment, retailer integration, and warehouse inbound processes. I composed company-wide non-functional requirements, components coding guidelines, documentation explaining in graphical form business entity flows and deployment artefacts; facilitated technical roadmaps creation with ROI-based activities prioritization. I participated in severity-1 issues handling in production environments as an incident manager.",
         "Responsibilities: people management; composing high and low-level design of the software; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis.",
         "Technologies and tools: Clojure, Apache Camel, Postgres, Docker, Kubernetes, JSON, EDN, Mac OS X, Git, Github, JIRA."
       ]
@@ -72,9 +109,9 @@
       "position": "Technical Lead, Software Architect",
       "startDate": "2019-01-01",
       "endDate": "2019-10-01",
-      "summary": "Takeoff Technologies is helping grocers thrive in eCommerce.",
+      "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
       "highlights": [
-        "Achievements: I was a technical leader and architect for the team that worked on the MFCaaS-retailers integration layer. We integrated with third-parties: retailers systems, e-commerce platforms, suppliers systems. During that time, my group had designed and implemented REST API for the third-parties integration, ETL component for processing information in files from the third-parties, orchestrator component for business processes automation, adapter component for the legacy ERP/WMS integration through SOAP protocol.",
+        "Achievements: I was a technical leader and architect for the team that worked on the MFCaaS-retailers integration layer. We integrated with third parties: retailers systems, e-commerce platforms, suppliers systems. During that time, my group had designed and implemented REST API for the third-parties integration, ETL component for processing information in files from the third-parties, orchestrator component for business processes automation, adapter component for the legacy ERP/WMS integration through SOAP protocol.",
         "Responsibilities: people management; composing high and low-level design of the software; programming; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
         "Technologies and tools: Clojure, Apache Camel, Postgres, Docker, Kubernetes, JSON, EDN, Mac OS X, Git, Github, JIRA."
       ]
@@ -84,9 +121,9 @@
       "position": "Senior Software Developer",
       "startDate": "2018-03-01",
       "endDate": "2019-01-01",
-      "summary": "Takeoff Technologies is helping grocers thrive in eCommerce.",
+      "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
       "highlights": [
-        "Achievements: a crucial part of MFCaaS – integration with robotic shelf through proprietary protocol and legacy ERP/WMS system was designed and implemented; an important part of the e-commerce system – service contracts component was designed and implemented; these components became the most stable and robust parts of the system.",
+        "Achievements: a crucial part of MFCaaS – integration with robotic shelf through proprietary protocol and legacy ERP/WMS system was designed and implemented; an essential part of the e-commerce system – service contracts component was designed and implemented; these components became the most stable and robust parts of the system.",
         "Responsibilities: programming; PoC creating; code review; technical documentation writing; hiring new engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
         "Technologies and tools: Clojure, ClojureScript, ArangoDB, CouchDB, Redis, OracleDB, Docker, JSON, EDN, Mac OS X, Git, Github, JIRA."
       ]
