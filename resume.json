@@ -3,7 +3,7 @@
     "name": "Andrew Panfilov",
     "label": "Programmer | Early-stage startup CTO | Technology Advisor | Software Architect",
     "email": "andrew@dzer6.com",
-    "summary": "Seasoned Software Engineer with over two decades of expertise in software development. I specialize in diverse areas, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, batch processing, and high-load systems. In my recent role as Chief Technology Officer, I directed the development of a strategic Minimum Viable Product, emphasizing essential features tailored to the needs of our diverse target audience. My leadership extended to spearheading iterative development processes fueled by user feedback. A significant highlight of my career includes playing a pivotal role as a Software Architect/Engineering Manager at Takeoff Tech. Deloitte recognized the company as a winner among North American logistics firms for fastest-growing companies, based on percentage fiscal-year revenue growth from 2018-2021. I am passionate about leveraging technology for impactful solutions and contributing my extensive experience to innovative projects. Let's connect and explore how I can bring value to your team or initiatives.",
+    "summary": "As a Seasoned Software Engineer with over twenty years of experience, I have honed my expertise in various areas, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, batch processing, and high-load systems. My tenure as an early-stage startup CTO involved establishing and advancing our technological presence in the SaaS and Conversational AI domains. I have successfully led team building and leadership initiatives, mentoring a skilled development team to foster a culture of innovation and efficiency. My accomplishments include implementing AWS cloud cost optimization strategies and architecting a comprehensive Large Language Model pipeline to bolster our conversational AI capabilities. This pipeline involved developing chatbot dialogue setups, managing fieldwork with LLM, and leading advanced data analysis and processing. I have always focused on driving innovation, maintaining quality, and ensuring scalability to meet current and future technological challenges.",
     "picture": "https://media.licdn.com/dms/image/C4E03AQE0aH6wAwIvTg/profile-displayphoto-shrink_800_800/0/1581019888358?e=1706140800&v=beta&t=l31ukftNfSrRaZ8QtZ-RF1xABFaROfEqDjtG39Zc898",
     "location": {
       "address": "Mislata",
@@ -59,13 +59,17 @@
       "company": "Elevator Research Services",
       "position": "Chief Technology Officer",
       "startDate": "2022-09-01",
-      "endDate": "2023-12-31",
-      "summary": "SaaS startup (tools for marketing research)",
+      "endDate": "2024-01-12",
+      "summary": "Conversational AI SaaS startup (chatbot tools for marketing research)",
       "highlights": [
-        "As the Chief Technology Officer, I oversaw the development of a Minimum Viable Product, strategically focusing on essential software features that directly addressed the diverse needs of our target audience. Utilizing user feedback, I spearheaded iterative development processes to enhance the product continually.",
-        "To ensure scalability and efficiency, I took a hands-on approach to investing in and optimizing our technological infrastructure. This included evaluating and implementing cloud services to accommodate the company's growth trajectory.",
-        "Implementing analytics tools, I monitored user behaviour to gain valuable insights, enabling data-driven decision-making for product development and broader business strategy. I championed a culture of continuous improvement, emphasizing the importance of iterating based on data and fostering an environment where innovation flourished.",
-        "A key aspect of my role was building and leading a highly skilled and motivated technology team. Through strategic recruitment and development initiatives, I ensured the team was equipped to meet the technological demands of the company."
+        "As an early-stage startup CTO, my role encompassed a broad range of responsibilities to establish and advance our technological footprint in the SaaS and Conversational AI space. Key achievements include:",
+        "Team Building & Leadership: Recruited and mentored a highly competent development team, fostering a culture of innovation and efficiency. My leadership approach involved close mentorship, ensuring team members were well-equipped with the necessary skills and knowledge to excel in their roles.",
+        "AWS Cloud Cost Optimization: Implemented strategic solutions for cloud cost management, focusing on optimizing our AWS infrastructure. This involved careful planning and execution to balance performance with cost-effectiveness, ensuring maximum efficiency of our cloud resources.",
+        "Architecting LLM Pipeline: Designed and built a comprehensive three-stage Large Language Model (LLM) pipeline, tailored to enhance our conversational AI capabilities. The stages included:",
+        "Chatbot Dialogue Setup: Developed sophisticated prompt engineering techniques to set up engaging and effective chatbot conversations, ensuring a seamless interaction experience for users.",
+        "Fieldwork with LLM: Managed the deployment of chatbots in real-world scenarios, where they interacted with respondents using advanced LLM techniques. This phase was crucial in gathering valuable insights and testing the effectiveness of our conversational AI in actual use cases.",
+        "Data Analysis and Processing: Led the development of complex data analysis methods, including categorization, tagging, Personally Identifiable Information (PII) clearance, entity extraction, and sentiment detection. This stage was essential for deriving meaningful insights from chatbot interactions and continuously improving our AI models.",
+        "Throughout my tenure, I maintained a focus on quality, and scalability, ensuring that our technological solutions not only met current needs but were also well-positioned for growth."
       ]
     },
     {
@@ -372,15 +376,35 @@
   "interests": [
     {
       "name": "Camping",
-      "keywords": []
+      "keywords": [
+        "Nature observation",
+        "Cooking on fire",
+        "Night sky"
+      ]
     },
     {
       "name": "Traveling",
-      "keywords": []
+      "keywords": [
+        "Historical Landmarks",
+        "Cultural Events",
+        "Local Cuisine"
+      ]
     },
     {
       "name": "Startups",
-      "keywords": []
+      "keywords": [
+        "Early-stage startups",
+        "SaaS",
+        "Conversational AI"
+      ]
+    },
+    {
+      "name": "3D graphics",
+      "keywords": [
+        "Ray-casting",
+        "Bezier surfaces",
+        "Quad trees"
+      ]
     }
   ]
 }
