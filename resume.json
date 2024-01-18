@@ -26,33 +26,6 @@
     ]
   },
   "skills": [
-    {
-      "name": "Analysis",
-      "level": "",
-      "keywords": [
-        "Reviewing and auditing existing software architecture",
-        "Creating the system requirements specification",
-        "Pre-sale and technical due diligence"
-      ]
-    },
-    {
-      "name": "Design",
-      "level": "",
-      "keywords": [
-        "Ability to design solid software architecture",
-        "Writing High- and Low-level design documents",
-        "Presenting designed solution to the stakeholders"
-      ]
-    },
-    {
-      "name": "Development",
-      "level": "",
-      "keywords": [
-        "Ability to hire, inspire, mentor, and encourage colleagues",
-        "Building prototypes of the software and testing them",
-        "Creating back-end and front-end parts of a software"
-      ]
-    }
   ],
   "work": [
     {
@@ -91,7 +64,7 @@
       "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
       "highlights": [
         "Initially, as a Senior Software Developer, I designed and implemented crucial components for the integration with robotic shelves and legacy ERP/WMS systems, and developed a stable and robust e-commerce system service contracts component. Later, as Technical Lead and Software Architect, I led the team responsible for MFCaaS-retailers integration, orchestrating business process automation, ETL components for third-party data processing, and adapting legacy ERP/WMS integration. As an Engineering Lead, I managed several teams working on assortment, replenishment, retailer integration, and warehouse inbound processes. My responsibilities spanned people management, software design, code reviews, technical documentation, and incident management in production environments.",
-        "Technologies and tools: Clojure, ClojureScript, Postgres, ArangoDB, CouchDB, Redis, OracleDB, Docker, Apache Camel, JSON, EDN, Mac OS X, Git, Github, JIRA."
+        "Technologies and tools: Clojure, ClojureScript, Postgres, ArangoDB, CouchDB, Redis, OracleDB, Docker, Apache Camel, JSON, EDN Git, Github, JIRA."
       ]
     },
     {
@@ -102,7 +75,7 @@
       "summary": "Deal Flow Power Tool for VC & PE.",
       "highlights": [
         "Responsibilities: programming; code review; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
-        "Technologies and tools: Clojure, Immutant, ClojureScript, Reagent, React, ReactBootstrap, HTML, JavaScript, SCSS, Datomic, AWS, Docker, JSON, EDN, Datalog, Mac OS X, Git, Github, Trello, Youtrack, CircleCI."
+        "Technologies and tools: Clojure, Immutant, ClojureScript, Reagent, React, ReactBootstrap, HTML, JavaScript, SCSS, Datomic, AWS, Docker, JSON, EDN, Datalog, Git, Github, Trello, Youtrack, CircleCI."
       ]
     },
     {
@@ -112,7 +85,7 @@
       "endDate": "2017-03-01",
       "summary": "My work spanned diverse projects, including developing a custom DWH and ETL for an advertising platform, contributing to a healthcare startup with a smart thermometer and mobile apps, creating a backup service for enterprises integrating with Dropbox and Box.com, and developing an advertising platform for engaging consumers through various media. My responsibilities included architecture design, leading development teams, and hands-on programming. I utilized technologies like Java, Spring Framework, Hibernate, and Hadoop, and managed databases. My role required skills in requirement analysis, technical documentation, and robust software development, showcasing my expertise in software architecture and development.",
       "highlights": [
-        "Technologies and tools: Amazon EMR, Apache Tomcat, Box.com Client Lib, Cascading, Impala, Cascalog, Clojure, Docker, Docker Compose, Docker Machine, Docusign Client Lib, Dropbox Client Lib, Druid, Echosign Client Lib, Elasticsearch, Flywaydb, Git, H2, Hadoop, Hibernate, JPA, JSON, JUnit, Jackson, Java, Jenkins, Jira, Leiningen, Mac OS X, Mockito, Mockito Git, MyBatis, MySQL, OAuth2, PostgreSQL, RabbitMQ, SQL, Solr, Sonar, Spring, Spring Boot, Spring Core, Spring Data, Stormpath, TeamCity, Ubuntu, WADL, WSO2, XML, XSD."
+        "Technologies and tools: Amazon EMR, Apache Tomcat, Box.com Client Lib, Cascading, Impala, Cascalog, Clojure, Docker, Docker Compose, Docker Machine, Docusign Client Lib, Dropbox Client Lib, Druid, Echosign Client Lib, Elasticsearch, Flywaydb, Git, H2, Hadoop, Hibernate, JPA, JSON, JUnit, Jackson, Java, Jenkins, Jira, Leiningen, Mockito, Mockito Git, MyBatis, MySQL, OAuth2, PostgreSQL, RabbitMQ, SQL, Solr, Sonar, Spring, Spring Boot, Spring Core, Spring Data, Stormpath, TeamCity, WADL, WSO2, XML, XSD."
       ]
     },
     {
@@ -133,7 +106,7 @@
       "endDate": "2011-12-01",
       "summary": "I was instrumental in developing a web service for Front Porch Digital's DIVA, a large media storage solution. This web service, built on the WSO2 Carbon platform, was designed to support both SOAP (described with WSDL 1.1) and REST (described with WSDL 2.0) protocols, facilitating integration with a multitude of television software partners. My responsibilities included requirement analysis and estimation, writing high-level and low-level design documents, and developing the application in Java. I collaborated with a 4-member software team and the customer team, managed the continuous integration process, and created and adjusted the build process.",
       "highlights": [
-        "Technologies and tools: WSO2 Carbon, OSGi, Apache Axis2, Spring Framework, SoapUI, REST, SOAP Java, Groovy, WSDL, XML, XSD, WADL, Windows, Ubuntu, Jenkins CI, Apache Maven, Sonar, Nexus, MKS, SVN, Trac."
+        "Technologies and tools: WSO2 Carbon, OSGi, Apache Axis2, Spring Framework, SoapUI, REST, SOAP Java, Groovy, WSDL, XML, XSD, WADL, Jenkins CI, Apache Maven, Sonar, Nexus, MKS, SVN, Trac."
       ]
     },
     {
@@ -144,7 +117,7 @@
       "summary": "An Intranet application for mutual funds accounting based on Spring Framework, Hibernate, JSF, JBPM, Quartz with MS SQL database and Apache Tomcat as a servlet container.",
       "highlights": [
         "Responsibilities: bug fixing; analyzing custom logic requirement and providing DSL based high-level solution.",
-        "Technologies and tools: JSF, Hibernate, Spring Framework, Apache Tomcat, JBPM, Quartz,  Java, XML, JavaScript, HTML Ubuntu.  Apache Maven, Sonar, SVN, Jira."
+        "Technologies and tools: JSF, Hibernate, Spring Framework, Apache Tomcat, JBPM, Quartz,  Java, XML, JavaScript, HTML, Apache Maven, Sonar, SVN, Jira."
       ]
     },
     {
@@ -154,7 +127,7 @@
       "endDate": "2010-09-01",
       "summary": "My responsibilities included implementing a release issue tool website, developing a web-based bank application for demonstrating test tool features, creating a tool for managing release rollouts, and developing a distributed service execution engine. Additionally, I refactored and developed new UI layers for an instant messenger, created a client inspector for a casino game application, developed a GIS system for warehouse goods management, and contributed to an Eclipse plugin for business process flow management.",
       "highlights": [
-        "Technologies and tools: AWT, Apache ActiveMQ, Apache Ant, Apache Axis2, Apache Camel, Apache Maven, Apache Tomcat, Bugzilla, CVS, Castor, CookJS, CookSWT, CookXML, Derby, Dojo, Draw2D, Eclipse API, Excelsior Jet, Excelsior xFunction, FreeBSD, GEF, Geoserver, Geotools, Grails, Groovy, Hibernate, JDBC, JFace, JMS, JSP, JTS, JXTA, Jackrabbit, Java, JavaScript, Log4J, MSSQL, MacOS, Oracle, PostgreSQL, Quartz, Rhino, SQL, SVN, SWT, Spring Framework, Swing, Toplink, Ubuntu, VSS, WebSphere, Weblogic, Windows, XML, YUI."
+        "Technologies and tools: AWT, Apache ActiveMQ, Apache Ant, Apache Axis2, Apache Camel, Apache Maven, Apache Tomcat, Bugzilla, CVS, Castor, CookJS, CookSWT, CookXML, Derby, Dojo, Draw2D, Eclipse API, Excelsior Jet, Excelsior xFunction, FreeBSD, GEF, Geoserver, Geotools, Grails, Groovy, Hibernate, JDBC, JFace, JMS, JSP, JTS, JXTA, Jackrabbit, Java, JavaScript, Log4J, MSSQL, Oracle, PostgreSQL, Quartz, Rhino, SQL, SVN, SWT, Spring Framework, Swing, Toplink, VSS, WebSphere, Weblogic, XML, YUI."
       ]
     }
   ],
@@ -165,7 +138,7 @@
       "website": "http://www.meetup.com/Kiev-Clojure-Users/",
       "startDate": "2013-01-01",
       "endDate": "2017-12-01",
-      "summary": "This group is for anyone interested in Clojure and related stuff in Kyiv. All skill levels are welcome. I started this group to meet other Clojure enthusiasts."
+      "summary": "The Kyiv Clojure Users group is a public meetup group based in Kyiv, organized by Andrew Panfilov and another individual. It comprises 253 members who share an interest in Clojure, a modern, dynamic, and functional programming language. This group is open to all skill levels, from beginners to advanced programmers. The primary aim of the group is to bring together Clojure enthusiasts for knowledge sharing and exploring functional programming on the JVM. The group has hosted a number of events, indicating active participation and regular meetups among its members."
     }
   ],
   "education": [
@@ -179,11 +152,11 @@
   ],
   "publications": [
     {
-      "name": "Hadoop -> Cascading -> Cascalog",
+      "name": "Hadoop -> Cascading -> Cascalog (in Russian language)",
       "publisher": "SlideShare",
       "releaseDate": "2013-10-09",
       "website": "http://www.slideshare.net/andrewpanf/hadoop-cascading-cascalog",
-      "summary": "Tech talk slides about big data aggregation approaches and tools."
+      "summary": "The presentation \"Hadoop -> Cascading -> Cascalog\" explains the relationship and functionalities of these technologies in big data processing. Cascading, a layer above Hadoop, simplifies data-processing workflows, while Cascalog, built on Cascading, offers a higher-level query language for easier and more expressive big data analysis. The presentation details their applications, emphasizing their roles in efficiently managing big data challenges."
     }
   ],
   "languages": [
@@ -201,37 +174,5 @@
     }
   ],
   "interests": [
-    {
-      "name": "Camping",
-      "keywords": [
-        "Nature observation",
-        "Cooking on fire",
-        "Night sky"
-      ]
-    },
-    {
-      "name": "Traveling",
-      "keywords": [
-        "Historical Landmarks",
-        "Cultural Events",
-        "Local Cuisine"
-      ]
-    },
-    {
-      "name": "Startups",
-      "keywords": [
-        "Early-stage startups",
-        "SaaS",
-        "Conversational AI"
-      ]
-    },
-    {
-      "name": "3D graphics",
-      "keywords": [
-        "Ray-casting",
-        "Bezier surfaces",
-        "Quad trees"
-      ]
-    }
   ]
 }
