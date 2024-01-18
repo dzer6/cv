@@ -84,39 +84,14 @@
       ]
     },
     {
-      "company": "Takeoff Technologies",
-      "position": "Engineering Lead, Software Architect",
-      "startDate": "2019-10-01",
+      "company": "Takeoff Technologies (Awarded as Technology Pioneer by World Economic Forum in 2020)",
+      "position": "Senior Software Developer/Technical Lead/Engineering Lead/Software Architect",
+      "startDate": "2018-03-01",
       "endDate": "2021-06-01",
       "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
       "highlights": [
-        "Achievements: I was an engineering leader and architect for several teams that worked on assortment, replenishment, retailer integration, and warehouse inbound processes. I composed company-wide non-functional requirements, components coding guidelines, documentation explaining in graphical form business entity flows and deployment artefacts; facilitated technical roadmaps creation with ROI-based activities prioritization. I participated in severity-1 issues handling in production environments as an incident manager.",
-        "Responsibilities: people management; composing high and low-level design of the software; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis.",
-        "Technologies and tools: Clojure, Apache Camel, Postgres, Docker, Kubernetes, JSON, EDN, Mac OS X, Git, Github, JIRA."
-      ]
-    },
-    {
-      "company": "Takeoff Technologies",
-      "position": "Technical Lead, Software Architect",
-      "startDate": "2019-01-01",
-      "endDate": "2019-10-01",
-      "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
-      "highlights": [
-        "Achievements: I was a technical leader and architect for the team that worked on the MFCaaS-retailers integration layer. We integrated with third parties: retailers systems, e-commerce platforms, suppliers systems. During that time, my group had designed and implemented REST API for the third-parties integration, ETL component for processing information in files from the third-parties, orchestrator component for business processes automation, adapter component for the legacy ERP/WMS integration through SOAP protocol.",
-        "Responsibilities: people management; composing high and low-level design of the software; programming; PoC creating; code review; technical documentation writing; hiring new engineers; leading group of engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
-        "Technologies and tools: Clojure, Apache Camel, Postgres, Docker, Kubernetes, JSON, EDN, Mac OS X, Git, Github, JIRA."
-      ]
-    },
-    {
-      "company": "Takeoff Technologies",
-      "position": "Senior Software Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2019-01-01",
-      "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
-      "highlights": [
-        "Achievements: a crucial part of MFCaaS – integration with robotic shelf through proprietary protocol and legacy ERP/WMS system was designed and implemented; an essential part of the e-commerce system – service contracts component was designed and implemented; these components became the most stable and robust parts of the system.",
-        "Responsibilities: programming; PoC creating; code review; technical documentation writing; hiring new engineers; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
-        "Technologies and tools: Clojure, ClojureScript, ArangoDB, CouchDB, Redis, OracleDB, Docker, JSON, EDN, Mac OS X, Git, Github, JIRA."
+        "Initially, as a Senior Software Developer, I designed and implemented crucial components for the integration with robotic shelves and legacy ERP/WMS systems, and developed a stable and robust e-commerce system service contracts component. Later, as Technical Lead and Software Architect, I led the team responsible for MFCaaS-retailers integration, orchestrating business process automation, ETL components for third-party data processing, and adapting legacy ERP/WMS integration. As an Engineering Lead, I managed several teams working on assortment, replenishment, retailer integration, and warehouse inbound processes. My responsibilities spanned people management, software design, code reviews, technical documentation, and incident management in production environments.",
+        "Technologies and tools: Clojure, ClojureScript, Postgres, ArangoDB, CouchDB, Redis, OracleDB, Docker, Apache Camel, JSON, EDN, Mac OS X, Git, Github, JIRA."
       ]
     },
     {
@@ -152,18 +127,17 @@
       ]
     },
     {
-      "company": "Topspin",
+      "company": "Topspin / Front Porch Digital (acquired by Oracle in 2014)",
       "position": "Senior Software Developer",
       "startDate": "2010-12-01",
       "endDate": "2011-12-01",
-      "summary": "Web service for media storage. Web service proxy for large media storage based on WSO2 Carbon platform.Supports SOAP (described as WSDL 1.1) and REST (described as WSDL 2.0). Intended for integration with partners in a large amount of television software.",
+      "summary": "I was instrumental in developing a web service for Front Porch Digital's DIVA, a large media storage solution. This web service, built on the WSO2 Carbon platform, was designed to support both SOAP (described with WSDL 1.1) and REST (described with WSDL 2.0) protocols, facilitating integration with a multitude of television software partners. My responsibilities included requirement analysis and estimation, writing high-level and low-level design documents, and developing the application in Java. I collaborated with a 4-member software team and the customer team, managed the continuous integration process, and created and adjusted the build process.",
       "highlights": [
-        "Responsibilities: requirement analysis and estimation; High- and Low- Level Design document writing; developing an application in Java; collaborating with a 4 member software team; collaborating with a customer team; continuous Integration adjustment; build process creating and adjustment.",
-        "Technologies and tools: WSO2 Carbon, OSGi, Apache Axis2, Spring Framework, soapUI, REST, SOAP Java, Groovy, WSDL, XML, XSD, WADL.  Windows, Ubuntu.  Jenkins CI, Apache Maven, Sonar, Nexus, MKS, SVN, Trac."
+        "Technologies and tools: WSO2 Carbon, OSGi, Apache Axis2, Spring Framework, SoapUI, REST, SOAP Java, Groovy, WSDL, XML, XSD, WADL, Windows, Ubuntu, Jenkins CI, Apache Maven, Sonar, Nexus, MKS, SVN, Trac."
       ]
     },
     {
-      "company": "Exadel",
+      "company": "Exadel / John Hancock Investment Management",
       "position": "Software Developer",
       "startDate": "2010-09-01",
       "endDate": "2010-12-01",
