@@ -4,7 +4,7 @@
     "label": "Programmer | Early-stage startup CTO | Technology Advisor | Software Architect",
     "email": "andrew@dzer6.com",
     "summary": "As a Seasoned Software Engineer with over twenty years of experience, I have honed my expertise in various areas, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, batch processing, and high-load systems. My tenure as an early-stage startup CTO involved establishing and advancing our technological presence in the SaaS and Conversational AI domains. I have successfully led team building and leadership initiatives, mentoring a skilled development team to foster a culture of innovation and efficiency. My accomplishments include implementing AWS cloud cost optimization strategies and architecting a comprehensive Large Language Model pipeline to bolster our conversational AI capabilities. This pipeline involved developing chatbot dialogue setups, managing fieldwork with LLM, and leading advanced data analysis and processing. I have always focused on driving innovation, maintaining quality, and ensuring scalability to meet current and future technological challenges.",
-    "picture": "https://media.licdn.com/dms/image/C4E03AQE0aH6wAwIvTg/profile-displayphoto-shrink_800_800/0/1581019888358?e=1706140800&v=beta&t=l31ukftNfSrRaZ8QtZ-RF1xABFaROfEqDjtG39Zc898",
+    "picture": "",
     "location": {
       "address": "Mislata",
       "postalCode": "46920",
@@ -68,27 +68,14 @@
         "Architecting LLM Pipeline: Designed and built a comprehensive three-stage Large Language Model (LLM) pipeline, tailored to enhance our conversational AI capabilities. The stages included:",
         "Chatbot Dialogue Setup: Developed sophisticated prompt engineering techniques to set up engaging and effective chatbot conversations, ensuring a seamless interaction experience for users.",
         "Fieldwork with LLM: Managed the deployment of chatbots in real-world scenarios, where they interacted with respondents using advanced LLM techniques. This phase was crucial in gathering valuable insights and testing the effectiveness of our conversational AI in actual use cases.",
-        "Data Analysis and Processing: Led the development of complex data analysis methods, including categorization, tagging, Personally Identifiable Information (PII) clearance, entity extraction, and sentiment detection. This stage was essential for deriving meaningful insights from chatbot interactions and continuously improving our AI models.",
-        "Throughout my tenure, I maintained a focus on quality, and scalability, ensuring that our technological solutions not only met current needs but were also well-positioned for growth."
-      ]
-    },
-    {
-      "company": "Synqrinus",
-      "position": "Technology Advisor",
-      "startDate": "2022-02-01",
-      "endDate": "2023-07-01",
-      "summary": "Marketing research agency.",
-      "highlights": [
-        "Achievements: I supported the organization in technological strategy, scalability, and cost-effectiveness.",
-        "Responsibilities: technological strategy consulting and engineering sustainability of the organisation.",
-        "Technologies and tools: TypeScript, JavaScript, NodeJS, Clojure, ClojureScript, Apache Camel, Postgres, Docker, AWS, Git, Github, JIRA."
+        "Data Analysis and Processing: Led the development of complex data analysis methods, including categorization, tagging, Personally Identifiable Information (PII) clearance, entity extraction, and sentiment detection. This stage was essential for deriving meaningful insights from chatbot interactions and continuously improving our AI models."
       ]
     },
     {
       "company": "Synqrinus",
       "position": "Director Of Engineering",
       "startDate": "2021-06-01",
-      "endDate": "2022-02-01",
+      "endDate": "2022-09-01",
       "summary": "Marketing research agency.",
       "highlights": [
         "Achievements: I led a diverse team of software developers to build and optimise proprietary marketing research tools. I set up and led efficient processes to enable the team to operate with clear communication, accountability, and tracking. I focused on empowering my team and providing coaching and growth opportunities.",
@@ -144,17 +131,6 @@
       ]
     },
     {
-      "company": "best-icon.com",
-      "position": "Founder, Technical Dude",
-      "startDate": "2016-01-01",
-      "endDate": "2017-12-31",
-      "summary": "Tool for optimizing mobile app icons.",
-      "highlights": [
-        "Responsibilities: do all technical things (front end, back end, devops, data processing, reporting, etc).",
-        "Technologies and tools: Clojure, ClojureScript, Reagent, React, Bootstrap, HTML, JavaScript, CSS, PostgreSQL, Redis, AWS (EC2, S3, CloudFront, Route53, ALB), Docker, SQL, JSON, Ubuntu, Mac OS X, Git, Bitbucket, Trello."
-      ]
-    },
-    {
       "company": "Cogniance",
       "position": "Senior Software Developer/Lead Software Developer/Software Architect",
       "startDate": "2012-08-01",
@@ -173,17 +149,6 @@
       "highlights": [
         "Responsibilities: requirement analysis and estimation; detail Design document writing; developing an application in Java; refactoring legacy code; collaborating with a 2-4-member software team; collaborating with a core team; continuous Integration adjustment; build process creating and adjustment.",
         "Technologies and tools: Playtech Poker Servers, Google Protobuf, Java, Groovy, XML, JSON, Black Box Testing, JUnit.  Jenkins CI, Apache Maven, Apache Ant, Sonar, Nexus, SVN, Jira, Icescrum."
-      ]
-    },
-    {
-      "company": "NDA",
-      "position": "Senior Software Developer, Contractor",
-      "startDate": "2010-08-01",
-      "endDate": "2012-08-01",
-      "summary": "Video chat in the browser, Chatroulette clone based on RTMP server Red5 and Flash. Website implemented on Grails. The scalable solution consists of two web applications, deployed as war files. The first application contains embedded RTMP server Red5 with video streaming transcoding based on ffmpeg wrapper Xuggle Xuggler. The second application contains front-end implemented on Grails with zombie cookie technology Evercookie, Twitter Bootstrap and JQuery. The connection between applications implemented with Apache Camel, JMS and Apache ActiveMQ.",
-      "highlights": [
-        "Responsibilities: requirement analysis and estimation; developing all parts of the solution with Java, Groovy, JavaScript, Openlaszlo; architecture designing.",
-        "Technologies and tools: Red5, Apache Tomcat, PostgreSQL, Grails, Spring Framework, JMS, Apache Camel, Apache ActiveMQ, Openlaszlo, Xuggle Xuggler, ffmpeg, Twitter Bootstrap, Java, Groovy, JavaScript, XML, Flash."
       ]
     },
     {
@@ -213,7 +178,7 @@
       "position": "Software Developer",
       "startDate": "2004-02-01",
       "endDate": "2010-09-01",
-      "summary": "I worked on various innovative projects. My responsibilities included implementing a release issue tool website, developing a web-based bank application for demonstrating test tool features, creating a tool for managing release rollouts, and developing a distributed service execution engine. Additionally, I refactored and developed new UI layers for an instant messenger, created a client inspector for a casino game application, developed a GIS system for warehouse goods management, and contributed to an Eclipse plugin for business process flow management. My role required proficiency in front-end and middle-tier development, and I utilized technologies like Java, JavaScript, Spring Framework, Hibernate, Apache Tomcat, and various databases.",
+      "summary": "My responsibilities included implementing a release issue tool website, developing a web-based bank application for demonstrating test tool features, creating a tool for managing release rollouts, and developing a distributed service execution engine. Additionally, I refactored and developed new UI layers for an instant messenger, created a client inspector for a casino game application, developed a GIS system for warehouse goods management, and contributed to an Eclipse plugin for business process flow management.",
       "highlights": [
         "Technologies and tools: AWT, Apache ActiveMQ, Apache Ant, Apache Axis2, Apache Camel, Apache Maven, Apache Tomcat, Bugzilla, CVS, Castor, CookJS, CookSWT, CookXML, Derby, Dojo, Draw2D, Eclipse API, Excelsior Jet, Excelsior xFunction, FreeBSD, GEF, Geoserver, Geotools, Grails, Groovy, Hibernate, JDBC, JFace, JMS, JSP, JTS, JXTA, Jackrabbit, Java, JavaScript, Log4J, MSSQL, MacOS, Oracle, PostgreSQL, Quartz, Rhino, SQL, SVN, SWT, Spring Framework, Swing, Toplink, Ubuntu, VSS, WebSphere, Weblogic, Windows, XML, YUI."
       ]
