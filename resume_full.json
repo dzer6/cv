@@ -53,7 +53,7 @@
       "highlights": [
         "Achievements: I led a diverse team of software developers to build and optimise proprietary marketing research tools. I set up and led efficient processes to enable the team to operate with clear communication, accountability, and tracking. I focused on empowering my team and providing coaching and growth opportunities.",
         "Responsibilities: people management; composing high and low-level design of the software; code review; hiring new engineers; leading group of engineers; coaching and experience transferring.",
-        "Technologies and tools: Clojure, ClojureScript, Apache Camel, Postgres, Docker, AWS, Git, Github, JIRA."
+        "Technologies and tools: Clojure, ClojureScript, Java, Apache Camel, Postgres, Docker, AWS, Git, Github, JIRA."
       ]
     },
     {
@@ -64,7 +64,7 @@
       "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
       "highlights": [
         "Initially, as a Senior Software Developer, I designed and implemented crucial components for the integration with robotic shelves and legacy ERP/WMS systems, and developed a stable and robust e-commerce system service contracts component. Later, as Technical Lead and Software Architect, I led the team responsible for MFCaaS-retailers integration, orchestrating business process automation, ETL components for third-party data processing, and adapting legacy ERP/WMS integration. As an Engineering Lead, I managed several teams working on assortment, replenishment, retailer integration, and warehouse inbound processes. My responsibilities spanned people management, software design, code reviews, technical documentation, and incident management in production environments.",
-        "Technologies and tools: Clojure, ClojureScript, Postgres, ArangoDB, CouchDB, Redis, OracleDB, Docker, Apache Camel, JSON, EDN Git, Github, JIRA."
+        "Technologies and tools: Clojure, ClojureScript, Java, Postgres, ArangoDB, CouchDB, Redis, OracleDB, Docker, Apache Camel, JSON, EDN Git, Github, JIRA."
       ]
     },
     {
@@ -143,7 +143,7 @@
   ],
   "education": [
     {
-      "institution": "Donetsk State Institute of Artificial Intelligence",
+      "institution": "Donetsk National Technical University",
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2000-09-01",

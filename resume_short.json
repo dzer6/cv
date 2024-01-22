@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Andrew Panfilov",
+    "label": "Programmer | Early-stage startup CTO | Technology Advisor | Software Architect",
+    "email": "andrew@dzer6.com",
+    "summary": "As a Seasoned Software Engineer with over twenty years of experience, I have honed my expertise in various areas, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, batch processing, and high-load systems. My tenure as an early-stage startup CTO involved establishing and advancing our technological presence in the SaaS and Conversational AI domains. I have successfully led team building and leadership initiatives, mentoring a skilled development team to foster a culture of innovation and efficiency. My accomplishments include implementing AWS cloud cost optimization strategies and architecting a comprehensive Large Language Model pipeline to bolster our conversational AI capabilities. This pipeline involved developing chatbot dialogue setups, managing fieldwork with LLM, and leading advanced data analysis and processing. I have always focused on driving innovation, maintaining quality, and ensuring scalability to meet current and future technological challenges.",
+    "picture": "",
+    "location": {
+      "address": "Mislata",
+      "postalCode": "46920",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "Valencia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "dzer6",
+        "url": "https://github.com/dzer6"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "andrewpanfilov",
+        "url": "https://linkedin.com/in/andrewpanfilov"
+      }
+    ]
+  },
+  "skills": [
+  ],
+  "work": [
+    {
+      "company": "Elevator Research Services",
+      "position": "Chief Technology Officer",
+      "startDate": "2022-09-01",
+      "endDate": "2024-01-12",
+      "summary": "Conversational AI SaaS startup (chatbot tools for marketing research)",
+      "highlights": [
+        "As an early-stage startup CTO, my role encompassed a broad range of responsibilities to establish and advance our technological footprint in the SaaS and Conversational AI space. Key achievements include:",
+        "Team Building & Leadership: Recruited and mentored a highly competent development team, fostering a culture of innovation and efficiency. My leadership approach involved close mentorship, ensuring team members were well-equipped with the necessary skills and knowledge to excel in their roles.",
+        "AWS Cloud Cost Optimization: Implemented strategic solutions for cloud cost management, focusing on optimizing our AWS infrastructure. This involved careful planning and execution to balance performance with cost-effectiveness, ensuring maximum efficiency of our cloud resources.",
+        "Architecting LLM Pipeline: Designed and built a comprehensive three-stage Large Language Model (LLM) pipeline, tailored to enhance our conversational AI capabilities. The stages included:",
+        "Chatbot Dialogue Setup: Developed sophisticated prompt engineering techniques to set up engaging and effective chatbot conversations, ensuring a seamless interaction experience for users.",
+        "Fieldwork with LLM: Managed the deployment of chatbots in real-world scenarios, where they interacted with respondents using advanced LLM techniques. This phase was crucial in gathering valuable insights and testing the effectiveness of our conversational AI in actual use cases.",
+        "Data Analysis and Processing: Led the development of complex data analysis methods, including categorization, tagging, Personally Identifiable Information (PII) clearance, entity extraction, and sentiment detection. This stage was essential for deriving meaningful insights from chatbot interactions and continuously improving our AI models."
+      ]
+    },
+    {
+      "company": "Synqrinus",
+      "position": "Director Of Engineering",
+      "startDate": "2021-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Marketing research agency.",
+      "highlights": [
+        "Achievements: I led a diverse team of software developers to build and optimise proprietary marketing research tools. I set up and led efficient processes to enable the team to operate with clear communication, accountability, and tracking. I focused on empowering my team and providing coaching and growth opportunities.",
+        "Responsibilities: people management; composing high and low-level design of the software; code review; hiring new engineers; leading group of engineers; coaching and experience transferring.",
+        "Technologies and tools: Clojure, ClojureScript, Java, Apache Camel, Postgres, Docker, AWS, Git, Github, JIRA."
+      ]
+    },
+    {
+      "company": "Takeoff Technologies (Awarded as Technology Pioneer by World Economic Forum in 2020)",
+      "position": "Senior Software Developer/Technical Lead/Engineering Lead/Software Architect",
+      "startDate": "2018-03-01",
+      "endDate": "2021-06-01",
+      "summary": "Takeoff Technologies – robotic micro-fulfilment centres.",
+      "highlights": [
+        "Initially, as a Senior Software Developer, I designed and implemented crucial components for the integration with robotic shelves and legacy ERP/WMS systems, and developed a stable and robust e-commerce system service contracts component. Later, as Technical Lead and Software Architect, I led the team responsible for MFCaaS-retailers integration, orchestrating business process automation, ETL components for third-party data processing, and adapting legacy ERP/WMS integration. As an Engineering Lead, I managed several teams working on assortment, replenishment, retailer integration, and warehouse inbound processes. My responsibilities spanned people management, software design, code reviews, technical documentation, and incident management in production environments.",
+        "Technologies and tools: Clojure, ClojureScript, Java, Postgres, ArangoDB, CouchDB, Redis, OracleDB, Docker, Apache Camel, JSON, EDN Git, Github, JIRA."
+      ]
+    },
+    {
+      "company": "Zapflow",
+      "position": "Senior Full Stack Software Developer",
+      "startDate": "2017-03-01",
+      "endDate": "2018-02-01",
+      "summary": "Deal Flow Power Tool for VC & PE.",
+      "highlights": [
+        "Responsibilities: programming; code review; coaching and experience transferring; requirement analysis, tasks breakdown and estimating.",
+        "Technologies and tools: Clojure, Immutant, ClojureScript, Reagent, React, ReactBootstrap, HTML, JavaScript, SCSS, Datomic, AWS, Docker, JSON, EDN, Datalog, Git, Github, Trello, Youtrack, CircleCI."
+      ]
+    },
+    {
+      "company": "Cogniance",
+      "position": "Senior Software Developer/Lead Software Developer/Software Architect",
+      "startDate": "2012-08-01",
+      "endDate": "2017-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Ciklum",
+      "position": "Senior Software Developer",
+      "startDate": "2012-01-01",
+      "endDate": "2012-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Topspin / Front Porch Digital (acquired by Oracle in 2014)",
+      "position": "Senior Software Developer",
+      "startDate": "2010-12-01",
+      "endDate": "2011-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Exadel / John Hancock Investment Management",
+      "position": "Software Developer",
+      "startDate": "2010-09-01",
+      "endDate": "2010-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Nighterra",
+      "position": "Software Developer",
+      "startDate": "2004-02-01",
+      "endDate": "2010-09-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Donetsk National Technical University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-01",
+      "endDate": "2004-07-01"
+    }
+  ],
+  "publications": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+  ]
+}
