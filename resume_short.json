@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Andrew Panfilov",
-    "label": "Programmer | Early-stage startup CTO | Technology Advisor | Software Architect",
+    "label": "Programmer | Software Architect | Early-stage startup enthusiast",
     "email": "andrew@dzer6.com",
-    "summary": "As a Seasoned Software Engineer with over twenty years of experience, I have honed my expertise in various areas, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, batch processing, and high-load systems. My tenure as an early-stage startup CTO involved establishing and advancing our technological presence in the SaaS and Conversational AI domains. I have successfully led team building and leadership initiatives, mentoring a skilled development team to foster a culture of innovation and efficiency. My accomplishments include implementing AWS cloud cost optimization strategies and architecting a comprehensive Large Language Model pipeline to bolster our conversational AI capabilities. This pipeline involved developing chatbot dialogue setups, managing fieldwork with LLM, and leading advanced data analysis and processing. I have always focused on driving innovation, maintaining quality, and ensuring scalability to meet current and future technological challenges.",
+    "summary": "With over two decades of extensive experience, I have worked for companies across Canada, the US, and Europe, specializing in architecting scalable, high-load systems and fostering robust engineering cultures. My career has spanned various domains, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, and conversational AI. I have led and mentored development teams, driving innovation and optimizing cloud infrastructure. My accomplishments include designing a comprehensive Large Language Model pipeline that enhanced chatbot capabilities, from dialogue setup to advanced data analysis and processing. As a passionate advocate for functional programming, I leverage languages like Clojure to build resilient and efficient systems. I enjoy sharing my knowledge through tech blogging and speaking at industry meetups, focusing on software architecture, engineering organization culture, and functional programming.",
     "picture": "",
     "location": {
       "address": "Mislata",
@@ -28,6 +28,16 @@
   "skills": [
   ],
   "work": [
+    {
+      "company": "Various Companies",
+      "position": "Technical Consultant",
+      "startDate": "2024-01-12",
+      "endDate": "2024-12-31",
+      "summary": "I work remotely on a contract basis with companies and technical entrepreneurs from my network to help them with pre-sales, software architecture and project management.",
+      "highlights": [
+        "I'm helping companies deliver software on time, on quality, and within budget."
+      ]
+    },
     {
       "company": "Elevator Research Services",
       "position": "Chief Technology Officer",

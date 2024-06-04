@@ -3,4 +3,5 @@
 * https://online2pdf.com/word2pdf
 
 `resume export resume.pdf --resume resume_short.json --format pdf --theme macchiato`
+`resume export resume.pdf --resume resume_short_u.json --format pdf --theme macchiato`
 `resume export resume.pdf --resume resume_full.json --format pdf --theme macchiato`
