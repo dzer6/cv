@@ -29,13 +29,36 @@
   ],
   "work": [
     {
-      "company": "Various Companies",
-      "position": "Technical Consultant",
-      "startDate": "2024-01-12",
-      "endDate": "2024-12-31",
-      "summary": "I work remotely on a contract basis with companies and technical entrepreneurs from my network to help them with pre-sales, software architecture and project management.",
+      "company": "Techstack / Optimality",
+      "position": "Software Architect, Engineering Manager",
+      "startDate": "2024-08-31",
+      "endDate": "2025-04-01",
+      "summary": "Led architecture and engineering management efforts for a smart business process automation system serving major clients in the oil and gas industry in the US and Japan.",
       "highlights": [
-        "I'm helping companies deliver software on time, on quality, and within budget."
+        "Architected subsystems for a complex project utilizing asynchronous CQRS patterns and integrating diverse technologies, ensuring scalability and reliability.",
+        "Established and optimized delivery processes, introduced scrum methodologies, and guided teams in adopting structured workflows.",
+        "Improved backlog quality by backlog analyzing, identifying gaps, and mentoring teams to create detailed, actionable backlog items.",
+        "Conducted Buy vs Build analyses for subsystems, accounting for the project's technological complexity and client-specific requirements.",
+        "Mentored team members in corporate communication, expectation management, and cross-team coordination across three distributed teams.",
+        "Facilitated collaboration among geographically distributed teams in Poland, Ukraine, Vietnam, Indonesia, and the US, ensuring seamless communication and alignment.",
+        "Directed the infrastructure team, ensuring their contributions aligned with project goals and deadlines."
+      ]
+    },
+    {
+      "company": "Playtika",
+      "position": "R&D Team Lead",
+      "startDate": "2024-03-01",
+      "endDate": "2024-08-31",
+      "summary": "Led the R&D team to optimize software delivery processes and implement Scrum methodologies across projects, enhancing both efficiency and product quality.",
+      "highlights": [
+        "Managed a diverse team comprising 5 client-side programmers, 5 server-side programmers, 3 testers, and 1 Product Owner, with 9 individuals directly under my supervision.",
+        "Built and maintained trusting relationships with team members, including those working in the Kyiv and Vinnytsia offices during the war, ensuring their psychological well-being and fostering a supportive work environment.",
+        "Implemented people-management strategies to support team members working under challenging conditions, maintaining high morale and engagement.",
+        "Facilitated effective communication and collaboration within the team, enabling seamless coordination between client-side and server-side development efforts.",
+        "Empowered team members to take ownership and accountability for their work, promoting a culture of responsibility and initiative.",
+        "Supported the Product Owner in maximizing their effectiveness within an agile framework, ensuring clear and prioritized product backlogs.",
+        "Guided Scrum teams in practicing Scrum principles and fostering continuous improvement, enhancing overall team performance.",
+        "Developed comprehensive mitigation strategy focusing on static code analysis of C++ codebase and augmenting test coverage for high-risk components, aiming to reduce game crashes."
       ]
     },
     {
@@ -145,7 +168,7 @@
     {
       "organization": "Kyiv Clojure Users meetup",
       "position": "Host",
-      "website": "http://www.meetup.com/Kiev-Clojure-Users/",
+      "website": "https://web.archive.org/web/20220626031049/https://www.meetup.com/Kiev-Clojure-Users/",
       "startDate": "2013-01-01",
       "endDate": "2017-12-01",
       "summary": "The Kyiv Clojure Users group is a public meetup group based in Kyiv, organized by Andrew Panfilov and another individual. It comprises 253 members who share an interest in Clojure, a modern, dynamic, and functional programming language. This group is open to all skill levels, from beginners to advanced programmers. The primary aim of the group is to bring together Clojure enthusiasts for knowledge sharing and exploring functional programming on the JVM. The group has hosted a number of events, indicating active participation and regular meetups among its members."
@@ -162,11 +185,46 @@
   ],
   "publications": [
     {
-      "name": "Hadoop -> Cascading -> Cascalog (in Russian language)",
-      "publisher": "SlideShare",
-      "releaseDate": "2013-10-09",
-      "website": "http://www.slideshare.net/andrewpanf/hadoop-cascading-cascalog",
-      "summary": "The presentation \"Hadoop -> Cascading -> Cascalog\" explains the relationship and functionalities of these technologies in big data processing. Cascading, a layer above Hadoop, simplifies data-processing workflows, while Cascalog, built on Cascading, offers a higher-level query language for easier and more expressive big data analysis. The presentation details their applications, emphasizing their roles in efficiently managing big data challenges."
+      "name": "\uD83C\uDF99\uFE0FPodcast Episode (in Ukrainian)",
+      "publisher": "Youtube",
+      "releaseDate": "2025-02-05",
+      "website": "https://www.youtube.com/watch?v=41IQpEWKOog",
+      "summary": "A podcast about startup spirit, early-stage startups, the role of an architect, as well as society and cultural code."
+    },
+    {
+      "name": "\uD83D\uDCCCA Polygon-Free Ray Tracer: Rendering Bicubic Bézier Surfaces in Clojure",
+      "publisher": "LinkedIn",
+      "releaseDate": "2025-03-21",
+      "website": "https://www.linkedin.com/pulse/polygon-free-ray-tracer-rendering-bicubic-b%C3%A9zier-clojure-panfilov-gdwcf/",
+      "summary": "This project is primarily educational and was undertaken simply because I enjoy exploring these techniques. This article describes a ray-tracing system implemented in Clojure that renders a scene without using any polygons. Instead, it uses smooth, mathematically defined Bézier patches combined with spatial data structures to achieve high visual fidelity."
+    },
+    {
+      "name": "\uD83D\uDCCCHow to build a vector embedding pipeline in Clojure with locally running LLM",
+      "publisher": "LinkedIn",
+      "releaseDate": "2024-08-16",
+      "website": "https://www.linkedin.com/pulse/how-build-vector-embedding-pipeline-clojure-locally-running-panfilov-fdezf/",
+      "summary": "\"Beating the average\" is important for those building a startup. The proper tooling and technologies are some of your non-market advantages. In 2001, Paul Graham wrote a blog post about how he achieved impressive results with the startup Viaweb. Over 20 years ago, Paul used the Lisp programming language in that startup. Today, Clojure is a nowadays Lisp. In this article, I explain how, by using Clojure and one of the most mature Java frameworks, you can build a pipeline for processing documents with the help of a locally running LLM."
+    },
+    {
+      "name": "\uD83D\uDCCCChatbot Prototype: Architectural Proposal",
+      "publisher": "LinkedIn",
+      "releaseDate": "2024-05-23",
+      "website": "https://www.linkedin.com/pulse/chatbot-prototype-architectural-proposal-andrew-panfilov-yjg4f/",
+      "summary": "This article presents an example of an architectural proposal for creating an intelligent chatbot prototype with LLM. It can serve as useful learning material for those who have never written such documents, and for those who have written similar proposals, it may enrich their experience. In any case, I would be glad to hear readers' comments and discuss what should be added to or corrected in this document."
+    },
+    {
+      "name": "\uD83D\uDCCCLet's write a simple microservice in Clojure",
+      "publisher": "LinkedIn",
+      "releaseDate": "2024-04-11",
+      "website": "https://www.linkedin.com/pulse/lets-write-simple-microservice-clojure-andrew-panfilov-2ghqe/",
+      "summary": "The article provides a comprehensive guide to creating a simple microservice in Clojure, emphasizing the language's capability to leverage the extensive Java ecosystem. By utilizing Clojure, developers can significantly reduce the amount of code and boilerplate, leading to more efficient development."
+    },
+    {
+      "name": "\uD83D\uDCCCLLM pipeline for marketing research insights",
+      "publisher": "LinkedIn",
+      "releaseDate": "2024-01-17",
+      "website": "https://www.linkedin.com/pulse/llm-pipeline-marketing-research-insights-andrew-panfilov-gt1bf/",
+      "summary": "Insights on Building a Conversational AI Pipeline for Marketing Research."
     }
   ],
   "languages": [
