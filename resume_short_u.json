@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Andrew Panfilov",
-    "label": "AUTHORIZED TO WORK IN US | Programmer | Software Architect | Early-stage startup enthusiast",
+    "label": "AUTHORIZED TO WORK IN US | Engineering Manager | Software Architect | AI/ML Systems",
     "phone": "+19037513221",
     "email": "andrew@dzer6.com",
-    "summary": "With over two decades of extensive experience, I have worked for companies across Canada, the US, and Europe, specializing in architecting scalable, high-load systems and fostering robust engineering cultures. My career has spanned various domains, including marketing research tech, micro-fulfillment automation, ad tech, big data analysis, and conversational AI. I have led and mentored development teams, driving innovation and optimizing cloud infrastructure. My accomplishments include designing a comprehensive Large Language Model pipeline that enhanced chatbot capabilities, from dialogue setup to advanced data analysis and processing. As a passionate advocate for functional programming, I leverage languages like Clojure to build resilient and efficient systems. I enjoy sharing my knowledge through tech blogging and speaking at industry meetups, focusing on software architecture, engineering organization culture, and functional programming.",
+    "summary": "Engineering leader with 21+ years of experience architecting scalable, distributed systems and managing high-performing technical teams. Proven track record in establishing architectural standards, leading engineering managers and architects, and driving technical excellence across organizations. Deep expertise in cloud platforms (AWS, GCP), domain-driven design, microservices architecture, and AI/ML integration including LLMs and RAG pipelines. Successfully built and mentored cross-functional teams, implemented architectural governance processes, and delivered large-scale systems for fintech, e-commerce, and SaaS companies. Passionate about fostering collaborative team cultures while maintaining rigorous quality standards and architectural best practices.",
     "picture": "",
     "location": {
     },
@@ -25,13 +25,74 @@
   ],
   "work": [
     {
-      "company": "Various Companies",
+      "company": "Kingpin.ai",
+      "position": "Head of Engineering",
+      "startDate": "2025-08-01",
+      "endDate": "2025-12-31",
+      "summary": "Fashion retail startup focused on AI-driven solutions for the fashion industry.",
+      "highlights": [
+        "Established development processes, transitioning from scrumban to scrum. Recruited key team members including BA/PO/PM role. Designed new product architecture and customer system integrations (CRM/ERP).",
+        "Led people management, budget optimization, and weekly delivery metrics. Selected Low-Code/No-Code platforms, drove AI-assisted programming adoption, managed technical debt and Incident Management/Observability.",
+        "Managed cloud migration from AWS to GCP and engaged 3rd party vendors for non-core functions (Sales Through Reporting, Demand Forecasting, custom reports)."
+      ]
+    },
+    {
+      "company": "Sira Sight AI",
+      "position": "Founding Engineer",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Clinical research technology startup providing AI-powered solutions for clinical site cost benchmarking, budgeting, and management for Clinical Research Sites, CROs, and Pharmaceutical Sponsors.",
+      "highlights": [
+        "Sole engineer building complete MVP from scratch (frontend, backend, infrastructure). Leveraged AI Coding Assistants to deliver full product in 3 months.",
+        "Built proprietary AI-powered data extraction engine for Clinical Trial Agreements (CTAs) and clinical trial budgets from Excel/PDF files.",
+        "Implemented data cleansing pipeline with global dictionaries for budget records mapping. Created AI-driven Schedule of Events generation and budget prediction using generative AI."
+      ]
+    },
+    {
+      "company": "Mitralex",
       "position": "Technical Consultant",
+      "startDate": "2025-04-01",
+      "endDate": "2025-05-01",
+      "summary": "Ukrainian LegalTech startup developing an intelligent chatbot for legal consultations based on Ukrainian legislation.",
+      "highlights": [
+        "Built Retrieval component for RAG system. Designed document processing pipeline for legal acts collected via web crawler.",
+        "Implemented optimized chunking strategy for vector search, enabling efficient retrieval from large legislative document collections."
+      ]
+    },
+    {
+      "company": "Techstack / Optimality",
+      "position": "Software Architect, Engineering Manager",
+      "startDate": "2024-08-31",
+      "endDate": "2025-04-01",
+      "summary": "Led architecture and engineering management efforts for a smart business process automation system serving major clients in the oil and gas industry in the US (Chevron) and Japan (Chiyoda Corp).",
+      "highlights": [
+        "Designed multitenant architecture with CQRS patterns, BPM functionality, LLM data processing pipeline, and intelligent chatbot.",
+        "Established delivery processes, introduced scrum methodologies, improved backlog quality through gap analysis and team mentoring.",
+        "Facilitated collaboration among distributed teams in Poland, Ukraine, Vietnam, Indonesia, and the US."
+      ]
+    },
+    {
+      "company": "Playtika",
+      "position": "R&D Team Lead",
+      "startDate": "2024-03-01",
+      "endDate": "2024-08-31",
+      "summary": "Led the R&D team to optimize software delivery processes and implement Scrum methodologies across projects, enhancing both efficiency and product quality.",
+      "highlights": [
+        "Managed diverse team of 14 members (5 client-side, 5 server-side programmers, 3 testers, 1 PO), with 9 direct reports.",
+        "Built trusting relationships with team members in Kyiv and Vinnytsia offices during the war, ensuring psychological well-being.",
+        "Developed mitigation strategy focusing on static code analysis of C++ codebase and test coverage for high-risk components to reduce game crashes."
+      ]
+    },
+    {
+      "company": "Stealth Startup",
+      "position": "Founding Engineer",
       "startDate": "2024-01-12",
       "endDate": "2024-12-31",
-      "summary": "I work remotely on a contract basis with companies and technical entrepreneurs from my network to help them with pre-sales, software architecture and project management.",
+      "summary": "Platform for hourly car rental services enabling flexible vehicle access for consumers.",
       "highlights": [
-        "I'm helping companies deliver software on time, on quality, and within budget."
+        "Founding engineer focused on backend development. Designed entire system architecture and led development process with another founding engineer.",
+        "Built single-page web application using JVM/Clojure backend, Vue.js frontend, WebSockets. Deployed to AWS using Terraform, PostgreSQL, and AWS Cognito.",
+        "Integrated with SmartCar API to abstract vehicle management across different car manufacturers."
       ]
     },
     {
